@@ -46,3 +46,26 @@
 ### Importance of User-Friendly Design
 
 User-friendly design is essential to create a frictionless booking experience, improve conversion rates, and increase overall user satisfaction. Clear navigation, responsive interfaces, and intuitive interactions contribute to a high-quality user experience.
+
+---
+
+### Figma Design Specifications
+
+#### Color Styles
+
+- **Primary:** `#FF5A5F`
+- **Secondary:** `#008489`
+- **Background:** `#FFFFFF`
+- **Text:** `#222222`
+- **Secondary Text:** `#717171`
+
+#### Typography
+
+- **Primary Font:** Circular
+  - Medium (500), 16px
+  - Bold (700), 24px - 32px
+  - Book (400), 14px
+
+#### Importance of Identifying Design Properties
+
+Understanding mockup design properties (such as colors, fonts, and spacing) ensures consistency between the design and implementation. It also helps developers build scalable and visually aligned components while maintaining brand identity.
