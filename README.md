@@ -69,3 +69,17 @@ User-friendly design is essential to create a frictionless booking experience, i
 #### Importance of Identifying Design Properties
 
 Understanding mockup design properties (such as colors, fonts, and spacing) ensures consistency between the design and implementation. It also helps developers build scalable and visually aligned components while maintaining brand identity.
+
+## Project Roles and Responsibilities
+
+| Role               | Responsibilities                                                                 |
+|--------------------|-----------------------------------------------------------------------------------|
+| **Project Manager**| Oversees timeline, coordinates team, and manages deliverables                     |
+| **Frontend Developers** | Implements UI components and ensures responsive design                   |
+| **Backend Developers** | Develops APIs, handles business logic, and manages the database           |
+| **Designers**       | Creates UI/UX mockups and ensures consistency in design                          |
+| **QA/Testers**      | Writes and runs test cases, performs bug tracking                                |
+| **DevOps Engineers**| Manages deployment, CI/CD pipelines, and infrastructure                          |
+| **Product Owner**   | Defines product requirements and prioritizes features                            |
+| **Scrum Master**    | Facilitates Agile ceremonies and removes blockers                                |
+
