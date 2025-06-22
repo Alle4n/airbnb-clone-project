@@ -83,3 +83,45 @@ Understanding mockup design properties (such as colors, fonts, and spacing) ensu
 | **Product Owner**   | Defines product requirements and prioritizes features                            |
 | **Scrum Master**    | Facilitates Agile ceremonies and removes blockers                                |
 
+---
+
+## UI Component Patterns
+
+### Planned Components
+
+#### 1. **Navbar**
+- Includes logo, search bar, user navigation, and responsive menu
+- Accessible and mobile-friendly layout
+
+#### 2. **Property Card**
+- Displays image, price, location, and rating
+- Includes a favorite (heart) button
+- Designed for reuse on listing pages
+
+#### 3. **Footer**
+- Contains links to site sections and social media
+- Includes copyright
+- Responsive across devices
+
+Each UI component is planned with reusability, maintainability, and responsiveness in mind to ensure scalability.
+
+---
+
+## Best Practices
+
+- **Code Organization:** Modular structure with separation of concerns
+- **Version Control:** Use of feature branches and descriptive commit messages
+- **Responsive Design:** Mobile-first design approach
+- **Accessibility:** Follows WCAG guidelines
+- **Documentation:** Up-to-date documentation for each component and feature
+- **Testing:** Includes unit tests and integration tests
+
+---
+
+## Repository
+
+- **GitHub Repository:** [airbnb-clone-project](https://github.com/Alle4n/airbnb-clone-project)
+
+---
+
+© 2025 Allen. All rights reserved.
